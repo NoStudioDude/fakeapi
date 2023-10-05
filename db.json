@@ -1,7 +1,7 @@
 {
     "traps": [
         {
-            "trapLevel": 1,
+            "trapLevel": 99,
             "username": "test1",
             "website": "www.google.com"
         },
