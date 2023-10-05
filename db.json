@@ -1,24 +1,12 @@
 {
     "traps": [
         {
-            "username": "test1",
-            "trapLevel": 1
+            "trapLevel": 1,
+            "username": "test1"
         },
         {
-            "username": "test2",
-            "trapLevel": 1
-        },
-        {
-            "username": "test2",
-            "trapLevel": 1
-        },
-        {
-            "username": "test3",
-            "trapLevel": 1
-        },
-        {
-            "username": "test4",
-            "trapLevel": 1
+            "trapLevel": 2,
+            "username": "test2"
         }
     ]
 }
